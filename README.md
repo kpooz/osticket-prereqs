@@ -55,3 +55,18 @@ DESCRIBE SCREEN SHOT IN THIS SECTION.!☝️☝️ "place imgr link here"
 DESCRIBE SCREEN SHOT IN THIS SECTION.!☝️☝️ "place imgr link here"
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+DESCRIBE SCREEN SHOT IN THIS SECTION.!☝️☝️ "place imgr link here"
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+DESCRIBE SCREEN SHOT IN THIS SECTION.!☝️☝️ "place imgr link here"
+</p>
+<br />
